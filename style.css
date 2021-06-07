@@ -1,0 +1,9 @@
+.center-text {
+    text-align: center;
+}
+
+.center-image {
+    position: fixed;
+    bottom: -10px;
+    left: 50%;
+}
