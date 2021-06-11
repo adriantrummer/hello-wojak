@@ -4,6 +4,6 @@
 
 .center-image {
     position: fixed;
-    bottom: -10px;
-    left: 50%;
+    bottom: -15px;
+    left: calc(50% - 90px);
 }
